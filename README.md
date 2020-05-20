@@ -1,2 +1,1 @@
-# BizHawk-ExternalTools
-A centeral repository for external tools built for the BizHawk emulator
+(everything's on the [wiki](https://github.com/TASVideos/BizHawk-ExternalTools/wiki))
